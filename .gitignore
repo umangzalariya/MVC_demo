@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/obj/project.assets.json
+/obj/project.nuget.cache
+/obj/WebApplication2.csproj.nuget.dgspec.json
+/obj/WebApplication2.csproj.nuget.g.props
+/obj/WebApplication2.csproj.nuget.g.targets
